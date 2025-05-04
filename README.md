@@ -1,2 +1,2 @@
-# phantomdeveloper.github.io
-Hosting app-ads.txt for AdMob
+google.com, pub-7161787741749841, DIRECT, f08c47fec0942fa0
+
